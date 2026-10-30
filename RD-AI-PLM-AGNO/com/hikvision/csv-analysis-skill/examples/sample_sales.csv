@@ -1,0 +1,26 @@
+order_id,order_date,region,channel,product,category,units,unit_price,sales_amount,customer_type
+O1001,2026-01-03,East,Online,Wireless Mouse,Accessories,2,25,50,New
+O1002,2026-01-04,West,Retail,Keyboard,Accessories,1,75,75,Returning
+O1003,2026-01-05,North,Online,Laptop Stand,Accessories,3,32,96,New
+O1004,2026-01-06,South,Partner,Monitor 24-inch,Electronics,2,180,360,Returning
+O1005,2026-01-07,East,Retail,USB-C Hub,Accessories,4,45,180,New
+O1006,2026-01-08,West,Online,Webcam,Electronics,2,68,136,Returning
+O1007,2026-01-09,North,Retail,Mechanical Keyboard,Accessories,1,120,120,New
+O1008,2026-01-10,South,Online,Laptop 14-inch,Computers,1,980,980,Returning
+O1009,2026-01-11,East,Partner,Monitor 27-inch,Electronics,2,245,490,New
+O1010,2026-01-12,,Online,Wireless Mouse,Accessories,5,25,125,New
+O1011,2026-01-13,West,Retail,Laptop 14-inch,Computers,1,980,980,Returning
+O1012,2026-01-14,North,Online,USB-C Hub,Accessories,2,45,90,New
+O1013,2026-01-15,South,Retail,Webcam,Electronics,,68,68,Returning
+O1014,2026-01-16,East,Online,Mechanical Keyboard,Accessories,2,120,240,Returning
+O1015,2026-01-17,West,Partner,Monitor 24-inch,Electronics,1,180,180,New
+O1016,2026-01-18,North,Retail,Laptop Stand,Accessories,4,32,128,Returning
+O1017,2026-01-19,South,Online,Laptop 14-inch,Computers,1,980,,New
+O1018,2026-01-20,East,Retail,Webcam,Electronics,3,68,204,Returning
+O1019,2026-01-21,West,Online,USB-C Hub,Accessories,3,45,135,New
+O1020,2026-01-22,North,Partner,Monitor 27-inch,Electronics,1,245,245,Returning
+O1021,2026-01-23,South,Retail,Wireless Mouse,Accessories,6,25,150,New
+O1022,2026-01-24,East,Partner,Laptop 14-inch,Computers,1,980,980,Returning
+O1023,2026-01-25,West,Online,Laptop Stand,Accessories,2,32,64,New
+O1024,2026-01-26,North,Retail,Monitor 24-inch,Electronics,2,180,360,Returning
+O1004,2026-01-06,South,Partner,Monitor 24-inch,Electronics,2,180,360,Returning
