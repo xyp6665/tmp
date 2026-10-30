@@ -1,0 +1,6 @@
+{
+  "action": "write",
+  "workspace": "./output",
+  "filename": "demo.txt",
+  "content": "script call works"
+}

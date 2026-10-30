@@ -1,0 +1,5 @@
+{
+  "action": "read",
+  "workspace": "./output",
+  "filename": "demo.txt"
+}

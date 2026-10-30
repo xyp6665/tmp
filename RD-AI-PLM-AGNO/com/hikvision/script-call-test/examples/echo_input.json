@@ -1,0 +1,17 @@
+{
+  "request_id": "smoke-001",
+  "name": "demo",
+  "numbers": [
+    1,
+    2,
+    3
+  ],
+  "enabled": true,
+  "metadata": {
+    "source": "agent",
+    "tags": [
+      "test",
+      "docker"
+    ]
+  }
+}
